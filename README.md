@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions in C++.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
