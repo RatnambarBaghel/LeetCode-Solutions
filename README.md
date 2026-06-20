@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0135-candy](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -59,4 +60,8 @@ This repository contains my LeetCode solutions in C++.
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
