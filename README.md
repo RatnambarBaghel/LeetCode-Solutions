@@ -102,9 +102,14 @@ This repository contains my LeetCode solutions in C++.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
