@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions in C++.
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -115,6 +116,7 @@ This repository contains my LeetCode solutions in C++.
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -125,6 +127,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
