@@ -32,6 +32,7 @@ This repository contains my LeetCode solutions in C++.
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
