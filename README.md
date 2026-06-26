@@ -86,6 +86,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Prefix Sum
@@ -138,6 +139,7 @@ This repository contains my LeetCode solutions in C++.
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -183,4 +185,5 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
