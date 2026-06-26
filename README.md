@@ -89,6 +89,7 @@ This repository contains my LeetCode solutions in C++.
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ This repository contains my LeetCode solutions in C++.
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ This repository contains my LeetCode solutions in C++.
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -186,4 +189,8 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
