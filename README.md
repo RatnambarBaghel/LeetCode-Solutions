@@ -106,6 +106,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0135-candy](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ This repository contains my LeetCode solutions in C++.
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -155,6 +157,7 @@ This repository contains my LeetCode solutions in C++.
 | [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -166,6 +169,7 @@ This repository contains my LeetCode solutions in C++.
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Simulation
