@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions in C++.
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -54,6 +55,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -85,6 +87,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Design
@@ -200,6 +203,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -210,4 +214,8 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
