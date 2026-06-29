@@ -1,13 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
-        for(int i =0;i<n;i++){
-            int count =0;
-            for(int j =i;j<n;j++){
-                if(nums[i] == nums[j]) count++;
-            }
-            if(count > n/2) return nums[i];
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+        int ans =-1;
+        int maxFre = 0;
+        for(int num : nums){
+            mpp.put(num,mpp.getOrDefault(num,0)+1);
         }
-        return -1;
+        for(int key: mpp.keySet()){
+            if(mpp.get(key)> maxFre){
+                maxFre = mpp.get(key);
+                ans = key;
+            }
+        }
+        return ans;
     }
 }
