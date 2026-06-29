@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions in C++.
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -132,6 +133,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
@@ -197,6 +199,7 @@ This repository contains my LeetCode solutions in C++.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
