@@ -45,6 +45,7 @@ This repository contains my LeetCode solutions in C++.
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -96,6 +97,7 @@ This repository contains my LeetCode solutions in C++.
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ This repository contains my LeetCode solutions in C++.
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
