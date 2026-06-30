@@ -61,6 +61,7 @@ This repository contains my LeetCode solutions in C++.
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -189,6 +190,7 @@ This repository contains my LeetCode solutions in C++.
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -201,6 +203,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
