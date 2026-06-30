@@ -3,15 +3,12 @@ class Solution {
         int n = s.length();
         int l =0,r = 0;
         int ans =0;
+        int maxFreq =0;
         HashMap<Character, Integer> map = new HashMap<>();
         while(r<n){
             char ch = s.charAt(r);
             map.put(ch,map.getOrDefault(ch,0)+1);
-            int maxFreq = 0;
-
-            for (int freq : map.values()) {
-                maxFreq = Math.max(maxFreq, freq);
-            }
+            maxFreq = Math.max(maxFreq, map.get(ch));
            
             while((r-l+1) - maxFreq > k){
                 int fre = map.get(s.charAt(l));
