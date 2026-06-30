@@ -39,6 +39,7 @@ This repository contains my LeetCode solutions in C++.
 | [0485-max-consecutive-ones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -197,6 +198,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
