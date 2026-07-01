@@ -41,6 +41,7 @@ This repository contains my LeetCode solutions in C++.
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -67,6 +68,7 @@ This repository contains my LeetCode solutions in C++.
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -118,6 +120,7 @@ This repository contains my LeetCode solutions in C++.
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0525-contiguous-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
