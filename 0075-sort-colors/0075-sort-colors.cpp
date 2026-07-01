@@ -10,8 +10,9 @@ public:
                 nums[zero] = nums[i];
                 nums[i] = temp;
                 zero++;
+                i++;
             }
-            if(nums[i] == 2){
+            else if(nums[i] == 2){
                 int temp = nums[two];
                 nums[two] = nums[i];
                 nums[i] = temp;
