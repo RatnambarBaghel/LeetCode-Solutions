@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions in C++.
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -85,6 +86,7 @@ This repository contains my LeetCode solutions in C++.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0263-ugly-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -150,6 +152,7 @@ This repository contains my LeetCode solutions in C++.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
