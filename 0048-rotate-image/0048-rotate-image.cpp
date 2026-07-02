@@ -11,7 +11,14 @@ public:
             }
         }
         for(int i=0;i<n;i++){
-            reverse(matrix[i].begin(),matrix[i].end());
+            int p1=0,p2=n-1;
+            while(p1<p2){
+                int temp = matrix[i][p1];
+                matrix[i][p1] = matrix[i][p2];
+                matrix[i][p2] = temp;
+                p1++;
+                p2--;
+            }
         }
         return;
     }
