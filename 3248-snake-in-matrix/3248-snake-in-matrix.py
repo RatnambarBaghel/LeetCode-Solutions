@@ -11,4 +11,4 @@ class Solution:
             elif(command == "LEFT"):
                  ans -=1
         
-        return ans;
+        return ans
