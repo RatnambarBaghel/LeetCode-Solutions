@@ -48,6 +48,7 @@ This repository contains my LeetCode solutions in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -118,6 +119,7 @@ This repository contains my LeetCode solutions in C++.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Bit Manipulation
@@ -125,6 +127,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Sorting
@@ -193,6 +196,7 @@ This repository contains my LeetCode solutions in C++.
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Dynamic Programming
