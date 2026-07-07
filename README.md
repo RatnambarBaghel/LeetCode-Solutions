@@ -108,6 +108,7 @@ This repository contains my LeetCode solutions in C++.
 | [0263-ugly-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Binary Search
@@ -215,6 +216,7 @@ This repository contains my LeetCode solutions in C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -324,4 +326,12 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
