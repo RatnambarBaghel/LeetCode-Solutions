@@ -89,6 +89,7 @@ This repository contains my LeetCode solutions in C++.
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -135,6 +136,7 @@ This repository contains my LeetCode solutions in C++.
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Sorting
@@ -145,6 +147,7 @@ This repository contains my LeetCode solutions in C++.
 | [0075-sort-colors](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -266,6 +269,7 @@ This repository contains my LeetCode solutions in C++.
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
