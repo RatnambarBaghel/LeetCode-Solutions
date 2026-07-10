@@ -48,6 +48,7 @@ This repository contains my LeetCode solutions in C++.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -107,6 +108,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -212,6 +214,7 @@ This repository contains my LeetCode solutions in C++.
 | [0125-valid-palindrome](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
