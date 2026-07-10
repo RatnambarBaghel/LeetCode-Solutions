@@ -77,6 +77,7 @@ This repository contains my LeetCode solutions in C++.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -181,6 +182,7 @@ This repository contains my LeetCode solutions in C++.
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
