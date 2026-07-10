@@ -222,6 +222,7 @@ This repository contains my LeetCode solutions in C++.
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@ This repository contains my LeetCode solutions in C++.
 | [0796-rotate-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 ## Simulation
