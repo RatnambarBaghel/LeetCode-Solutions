@@ -94,6 +94,7 @@ This repository contains my LeetCode solutions in C++.
 | [0242-valid-anagram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -293,6 +294,7 @@ This repository contains my LeetCode solutions in C++.
 | [0151-reverse-words-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
