@@ -90,6 +90,7 @@ This repository contains my LeetCode solutions in C++.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -290,6 +291,7 @@ This repository contains my LeetCode solutions in C++.
 | [0058-length-of-last-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
