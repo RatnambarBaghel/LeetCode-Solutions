@@ -258,6 +258,7 @@ This repository contains my LeetCode solutions in C++.
 | [0084-largest-rectangle-in-histogram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -386,11 +387,13 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +403,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
