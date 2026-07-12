@@ -2,10 +2,7 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         int n = arr.size();
-        vector<int> sortArr(n);
-        for(int i=0;i<n;i++){
-            sortArr[i] = arr[i];
-        }
+        vector<int> sortArr = arr;
         unordered_map<int,int> map;
         sort(sortArr.begin(), sortArr.end());
         int rank =1;
