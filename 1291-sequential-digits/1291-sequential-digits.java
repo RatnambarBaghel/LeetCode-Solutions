@@ -1,13 +1,4 @@
 class Solution {
-    int lastDigit(int low){
-        int lastDigit = 0;
-        int rem = 1;
-        while(low !=0){
-            rem = low %10;
-            low /= 10;
-        }
-        return rem;
-    }
     int count(int high){
         int count =0;
         while(high != 0){
