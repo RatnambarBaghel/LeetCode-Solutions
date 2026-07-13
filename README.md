@@ -425,4 +425,8 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
