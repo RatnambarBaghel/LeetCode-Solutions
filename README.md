@@ -235,6 +235,7 @@ This repository contains my LeetCode solutions in C++.
 | [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -310,6 +311,7 @@ This repository contains my LeetCode solutions in C++.
 | [0290-word-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
