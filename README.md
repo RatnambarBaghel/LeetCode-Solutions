@@ -65,6 +65,7 @@ This repository contains my LeetCode solutions in C++.
 | [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -110,6 +111,7 @@ This repository contains my LeetCode solutions in C++.
 | [0560-subarray-sum-equals-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -180,6 +182,7 @@ This repository contains my LeetCode solutions in C++.
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -383,10 +386,12 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
