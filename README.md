@@ -56,6 +56,7 @@ This repository contains my LeetCode solutions in C++.
 | [0303-range-sum-query-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -148,6 +149,7 @@ This repository contains my LeetCode solutions in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Bit Manipulation
@@ -285,6 +287,7 @@ This repository contains my LeetCode solutions in C++.
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -299,6 +302,7 @@ This repository contains my LeetCode solutions in C++.
 | [0085-maximal-rectangle](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -448,4 +452,8 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
