@@ -66,6 +66,7 @@ This repository contains my LeetCode solutions in C++.
 | [0560-subarray-sum-equals-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -293,6 +294,7 @@ This repository contains my LeetCode solutions in C++.
 | [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -350,6 +352,7 @@ This repository contains my LeetCode solutions in C++.
 | [0054-spiral-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
