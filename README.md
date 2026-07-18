@@ -139,6 +139,7 @@ This repository contains my LeetCode solutions in C++.
 | [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -415,6 +416,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
