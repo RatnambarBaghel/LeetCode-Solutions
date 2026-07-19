@@ -95,6 +95,7 @@ This repository contains my LeetCode solutions in C++.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ This repository contains my LeetCode solutions in C++.
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +414,7 @@ This repository contains my LeetCode solutions in C++.
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
