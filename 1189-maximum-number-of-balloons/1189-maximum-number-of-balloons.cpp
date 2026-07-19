@@ -9,6 +9,6 @@ public:
             }
         }
         
-        return min({map['b'],map['a'],map['n'],map['l']/2,map['o']/2});
+        return min(min(min(map['b'],map['a']),min(map['n'],map['l']/2)),map['o']/2);
     }
 };
