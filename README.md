@@ -87,6 +87,7 @@ This repository contains my LeetCode solutions in C++.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -162,6 +163,7 @@ This repository contains my LeetCode solutions in C++.
 | [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@ This repository contains my LeetCode solutions in C++.
 | [0387-first-unique-character-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
