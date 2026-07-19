@@ -93,6 +93,7 @@ This repository contains my LeetCode solutions in C++.
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ This repository contains my LeetCode solutions in C++.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@ This repository contains my LeetCode solutions in C++.
 | [1189-maximum-number-of-balloons](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
