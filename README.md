@@ -94,6 +94,7 @@ This repository contains my LeetCode solutions in C++.
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3046-split-the-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
@@ -133,6 +134,7 @@ This repository contains my LeetCode solutions in C++.
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3046-split-the-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
@@ -419,6 +421,7 @@ This repository contains my LeetCode solutions in C++.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3046-split-the-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Monotonic Queue
