@@ -14,7 +14,6 @@ public:
                 odd.push_back(map[ch]);
             }
         }
-        vector<int> ans;
         int maxi =INT_MIN;
         for(int i=0;i<odd.size();i++){
             for(int j=0;j<even.size();j++){
