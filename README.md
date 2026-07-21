@@ -90,6 +90,7 @@ This repository contains my LeetCode solutions in C++.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -382,6 +383,7 @@ This repository contains my LeetCode solutions in C++.
 | [1768-merge-strings-alternately](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Simulation
@@ -394,6 +396,7 @@ This repository contains my LeetCode solutions in C++.
 | [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 ## Sliding Window
