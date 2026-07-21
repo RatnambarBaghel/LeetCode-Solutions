@@ -155,6 +155,7 @@ This repository contains my LeetCode solutions in C++.
 | [0523-continuous-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -186,6 +187,7 @@ This repository contains my LeetCode solutions in C++.
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
