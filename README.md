@@ -310,6 +310,7 @@ This repository contains my LeetCode solutions in C++.
 | [0225-implement-stack-using-queues](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -354,6 +355,7 @@ This repository contains my LeetCode solutions in C++.
 | [0387-first-unique-character-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -452,6 +454,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
