@@ -86,6 +86,7 @@ This repository contains my LeetCode solutions in C++.
 | [1672-richest-customer-wealth](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1929-concatenation-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -392,6 +393,7 @@ This repository contains my LeetCode solutions in C++.
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1929-concatenation-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 ## Sliding Window
