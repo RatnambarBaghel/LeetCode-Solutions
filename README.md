@@ -161,6 +161,7 @@ This repository contains my LeetCode solutions in C++.
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -198,6 +199,7 @@ This repository contains my LeetCode solutions in C++.
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -379,6 +381,7 @@ This repository contains my LeetCode solutions in C++.
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
