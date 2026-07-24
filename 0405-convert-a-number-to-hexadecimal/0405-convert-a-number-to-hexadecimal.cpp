@@ -6,27 +6,10 @@ public:
         string ans="";
         while(n != 0){
             int rem = n %16;
-            if(rem == 10){
-                ans +='a';
-            }
-            else if(rem == 11){
-                ans += 'b';
-            }
-            else if(rem == 12){
-                ans += 'c';
-            }
-            else if(rem == 13){
-                ans += 'd';
-            }
-            else if(rem == 14){
-                ans += 'e';
-            }
-            else if(rem == 15){
-                ans += 'f';
-            }
-            else {
-                ans += (char)(rem +'0');
-            }
+            if(rem < 10) 
+                ans += (char)(rem + '0');   
+            else 
+                ans += (char)(rem - 10 + 'a');
 
             n /= 16;
         }
