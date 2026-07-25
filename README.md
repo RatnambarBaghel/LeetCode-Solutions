@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -111,6 +112,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -209,6 +211,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -367,6 +370,7 @@ This repository contains my LeetCode solutions in C++.
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
