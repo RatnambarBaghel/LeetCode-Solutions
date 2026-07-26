@@ -29,10 +29,6 @@ public:
                 right++;
             }
         }
-        string ans;
-        for(int i=startIdx;i<startIdx+len;i++){
-            ans += s[i];
-        }
-        return ans;
+        return s.substr(startIdx, len);
     }
 };
