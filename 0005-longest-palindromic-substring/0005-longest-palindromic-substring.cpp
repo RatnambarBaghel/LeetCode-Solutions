@@ -29,9 +29,10 @@ public:
                 right++;
             }
         }
-        // for(int i=startIdx;i<len;i++){
-        //     ans += s[i];
-        // }
-        return s.substr(startIdx,len);;
+        string ans;
+        for(int i=startIdx;i<startIdx+len;i++){
+            ans += s[i];
+        }
+        return ans;
     }
 };
