@@ -285,6 +285,7 @@ This repository contains my LeetCode solutions in C++.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -309,6 +310,7 @@ This repository contains my LeetCode solutions in C++.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -369,6 +371,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
