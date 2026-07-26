@@ -27,6 +27,11 @@ class Solution {
             
 
         }
-        return s.substring(index,index+len);
+        StringBuilder ans = new StringBuilder();
+        for(int i=index;i<index+len;i++){
+            ans.append(s.charAt(i));
+        }
+        // return s.substring(index,index+len);
+        return ans.toString();
     }
 }
