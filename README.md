@@ -167,6 +167,7 @@ This repository contains my LeetCode solutions in C++.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0504-base-7](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -399,6 +400,7 @@ This repository contains my LeetCode solutions in C++.
 | [0424-longest-repeating-character-replacement](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
