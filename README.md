@@ -84,6 +84,7 @@ This repository contains my LeetCode solutions in C++.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -226,6 +227,7 @@ This repository contains my LeetCode solutions in C++.
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -328,6 +330,7 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
