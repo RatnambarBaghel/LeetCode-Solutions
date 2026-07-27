@@ -166,6 +166,7 @@ This repository contains my LeetCode solutions in C++.
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -206,6 +207,7 @@ This repository contains my LeetCode solutions in C++.
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
