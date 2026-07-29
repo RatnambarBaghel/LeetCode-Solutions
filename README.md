@@ -189,6 +189,7 @@ This repository contains my LeetCode solutions in C++.
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3908-valid-digit-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -429,6 +430,7 @@ This repository contains my LeetCode solutions in C++.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +446,7 @@ This repository contains my LeetCode solutions in C++.
 | [2180-count-integers-with-even-digit-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
+| [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
