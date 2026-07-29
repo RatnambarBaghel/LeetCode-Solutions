@@ -184,6 +184,7 @@ This repository contains my LeetCode solutions in C++.
 | [2169-count-operations-to-obtain-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2469-convert-the-temperature](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
