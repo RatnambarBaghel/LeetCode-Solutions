@@ -189,6 +189,7 @@ This repository contains my LeetCode solutions in C++.
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3908-valid-digit-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3908-valid-digit-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
