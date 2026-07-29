@@ -155,6 +155,7 @@ This repository contains my LeetCode solutions in C++.
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [3945-digit-frequency-score](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ This repository contains my LeetCode solutions in C++.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3908-valid-digit-number/) | Easy |
+| [3945-digit-frequency-score](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
