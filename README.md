@@ -77,6 +77,7 @@ This repository contains my LeetCode solutions in C++.
 | [0735-asteroid-collision](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0912-sort-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -327,6 +328,7 @@ This repository contains my LeetCode solutions in C++.
 | [0567-permutation-in-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -345,6 +347,7 @@ This repository contains my LeetCode solutions in C++.
 | [0264-ugly-number-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -579,6 +582,7 @@ This repository contains my LeetCode solutions in C++.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
