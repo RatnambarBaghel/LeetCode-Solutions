@@ -12,6 +12,8 @@ public:
                 int temp = nums[l];
                 nums[l] = nums[r];
                 nums[r] = temp;
+                l++;
+                r--;
             }
         }
         return nums;
