@@ -193,6 +193,7 @@ This repository contains my LeetCode solutions in C++.
 | [2469-convert-the-temperature](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
@@ -591,6 +592,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
