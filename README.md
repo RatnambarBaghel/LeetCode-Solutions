@@ -104,6 +104,7 @@ This repository contains my LeetCode solutions in C++.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -154,6 +155,7 @@ This repository contains my LeetCode solutions in C++.
 | [1512-number-of-good-pairs](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -518,6 +520,7 @@ This repository contains my LeetCode solutions in C++.
 | [1512-number-of-good-pairs](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
