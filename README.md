@@ -122,6 +122,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -168,6 +169,7 @@ This repository contains my LeetCode solutions in C++.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -412,6 +414,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
