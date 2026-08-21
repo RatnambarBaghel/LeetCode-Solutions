@@ -50,6 +50,7 @@ This repository contains my LeetCode solutions in C++.
 | [0152-maximum-product-subarray](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -244,6 +245,7 @@ This repository contains my LeetCode solutions in C++.
 | [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -618,9 +620,15 @@ This repository contains my LeetCode solutions in C++.
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
