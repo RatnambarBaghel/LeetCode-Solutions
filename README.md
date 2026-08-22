@@ -173,6 +173,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
@@ -228,6 +229,7 @@ This repository contains my LeetCode solutions in C++.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -427,6 +429,7 @@ This repository contains my LeetCode solutions in C++.
 | [0032-longest-valid-parentheses](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -470,6 +473,7 @@ This repository contains my LeetCode solutions in C++.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
