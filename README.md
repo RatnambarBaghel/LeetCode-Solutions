@@ -194,6 +194,7 @@ This repository contains my LeetCode solutions in C++.
 | [1323-maximum-69-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -309,6 +310,7 @@ This repository contains my LeetCode solutions in C++.
 | [0680-valid-palindrome-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ This repository contains my LeetCode solutions in C++.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
+| [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -644,4 +647,8 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
