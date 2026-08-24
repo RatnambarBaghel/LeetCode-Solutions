@@ -651,4 +651,8 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
