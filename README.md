@@ -655,4 +655,5 @@ This repository contains my LeetCode solutions in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0195-tenth-line](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
