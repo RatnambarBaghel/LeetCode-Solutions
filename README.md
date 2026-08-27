@@ -657,4 +657,8 @@ This repository contains my LeetCode solutions in C++.
 | [0192-word-frequency](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0192-word-frequency/) | Medium |
 | [0193-valid-phone-numbers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0195-tenth-line/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
