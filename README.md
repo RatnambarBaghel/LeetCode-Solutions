@@ -106,6 +106,7 @@ This repository contains my LeetCode solutions in C++.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -311,6 +312,7 @@ This repository contains my LeetCode solutions in C++.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1927-sum-game](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
