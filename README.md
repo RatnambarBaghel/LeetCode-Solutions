@@ -120,6 +120,7 @@ This repository contains my LeetCode solutions in C++.
 | [3248-snake-in-matrix](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ This repository contains my LeetCode solutions in C++.
 | [3536-maximum-product-of-two-digits](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
