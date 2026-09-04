@@ -122,6 +122,7 @@ This repository contains my LeetCode solutions in C++.
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ This repository contains my LeetCode solutions in C++.
 | [2485-find-the-pivot-integer](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
