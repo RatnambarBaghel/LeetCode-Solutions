@@ -676,6 +676,7 @@ This repository contains my LeetCode solutions in C++.
 | [0181-employees-earning-more-than-their-managers](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
