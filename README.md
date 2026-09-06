@@ -154,6 +154,7 @@ This repository contains my LeetCode solutions in C++.
 | [0645-set-mismatch](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0771-jewels-and-stones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -465,6 +466,7 @@ This repository contains my LeetCode solutions in C++.
 | [0504-base-7](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RatnambarBaghel/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
